@@ -1,0 +1,74 @@
+[
+    {
+      "name": "Aurthohin",
+      "members": 3,
+      "booking": "$600",
+      "country": "Bangladesh",
+      "year": 1998,
+      "image": "https://www.rankmylist.com/images/listimagedisplay/3wgE8G4RcSmztajLmGPQvV6TPMvGX5JMlaLuGa3qeMD.jpg"
+    },
+    {
+      "name": "Artcell",
+      "members": 4,
+      "booking": "$400",
+      "country": "Bangladesh",
+      "year": 1999,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41ZyLejroVL._SY445_SX342_QL70_ML2_.jpg"
+    },
+    {
+      "name": "Warfaze",
+      "members": 6,
+      "booking": "$500",
+      "country": "Bangladesh",
+      "year": 1984,
+      "image": "https://pbs.twimg.com/media/EbsidvvUEAEGDQE.jpg"
+    },
+    {
+      "name": "LRB",
+      "members": 4,
+      "booking": "$400",
+      "country": "Bangladesh",
+      "year": 1991,
+      "image": "https://i.ytimg.com/vi/dTB7fGo3rG0/maxresdefault.jpg"
+    },
+    {
+      "name": "Nogor Baul",
+      "members": 5,
+      "booking": "$700",
+      "country": "Bangladesh",
+      "year": 1977,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/James_Nagar_Baul_2013.JPG/220px-James_Nagar_Baul_2013.JPG"
+    },
+    {
+      "name": "Miles",
+      "members": 5,
+      "booking": "$400",
+      "country": "Bangladesh",
+      "year": 1987,
+      "image": "https://images.prothomalo.com/prothomalo-english/import/media/2019/05/13/966021d116e7b7e7768d560d844682fd-Untitled-22.jpg"
+    },
+    {
+      "name": "Shironamhin",
+      "members": 5,
+      "booking": "$300",
+      "country": "Bangladesh",
+      "year": 1996,
+      "image": "https://bangladeshpost.net/webroot/uploads/featureimage/2021-05/60969d7943a15.jpg"
+    },
+    {
+      "name": "Nemesis",
+      "members": 4,
+      "booking": "$500",
+      "country": "Bangladesh",
+      "year": 2005,
+      "image": "https://www.newagebd.com/files/records/news/202012/125314_182.jpg"
+    },
+    {
+      "name": "Arbovirus",
+      "members": 5,
+      "booking": "$500",
+      "country": "Bangladesh",
+      "year": 2002,
+      "image": "https://i1.sndcdn.com/artworks-yQWVjpyFL94vAoFt-Xbcemg-t500x500.jpg"
+    }
+  ]

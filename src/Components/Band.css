@@ -1,0 +1,42 @@
+.band-design{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(lightblue,lightgreen);
+    padding: 3% 5%;
+    border-radius: 10px;
+    transition: 0.3s;
+}
+.band-design img{
+    height: 80px;
+    width: 80px;
+    border-radius: 30px;
+    padding-bottom: 2px;
+}
+.band-design h5{
+    margin:2px;
+}
+.button-design{
+    margin-top: 5px;
+    padding:5px;
+    border-radius: 10px;
+    background-color: lightslategray;
+    color: linen;
+    cursor: pointer;
+}
+.social-icons{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.social-icons i{
+    margin-right: 10px;
+    cursor: pointer;
+    color: goldenrod;
+}
+
+.band-design:hover{
+    transform: scale(1.1);
+    border: 1px solid brown;
+}

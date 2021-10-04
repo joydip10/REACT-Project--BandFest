@@ -1,0 +1,19 @@
+.member-design{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0px;
+    padding: 1%;
+}
+.member-design img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    margin-right: 10px;
+}
+.member-design i{
+    margin-left: 10px;
+    color: red;
+    background: none;
+    cursor: pointer;
+}
